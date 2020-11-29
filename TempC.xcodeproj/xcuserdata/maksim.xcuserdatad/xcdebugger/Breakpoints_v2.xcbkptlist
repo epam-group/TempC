@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "461DF971-5A7F-401B-AD8A-F1B27683103F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3C8D70E-73C2-41C2-A2D4-B907B7D9DF7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TempC/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A3C8D70E-73C2-41C2-A2D4-B907B7D9DF7E - 2adeab4bcf07b2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempC.ViewController.celsiusLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Downloads/TempC/TempC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A3C8D70E-73C2-41C2-A2D4-B907B7D9DF7E - b0d8ce405da2943b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempC.ViewController.celsiusLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Downloads/TempC/TempC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A3C8D70E-73C2-41C2-A2D4-B907B7D9DF7E - 85ffd955600fd568"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempC.ViewController.celsiusLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "TempC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Downloads/TempC/TempC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "A3C8D70E-73C2-41C2-A2D4-B907B7D9DF7E - 45bd41f666425140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempC.ViewController.celsiusLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TempC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Downloads/TempC/TempC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "A3C8D70E-73C2-41C2-A2D4-B907B7D9DF7E - bacfc8d2299a6b2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempC.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TempC.ViewController"
+                  moduleName = "TempC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Downloads/TempC/TempC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "A3C8D70E-73C2-41C2-A2D4-B907B7D9DF7E - d8458841c14994dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TempC.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TempC.ViewController&gt;"
+                  moduleName = "TempC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maksim/Downloads/TempC/TempC/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
