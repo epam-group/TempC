@@ -23,10 +23,10 @@ class ViewController: UIViewController {
     @IBOutlet weak var farenLabel: UILabel!
 
     @IBAction func sliderValue(_ sender: UISlider) {
-        let tempCelsius = sender.value
-        celsiusLabel.text = "\(Int(tempCelsius))ºC"
-        let faren = (tempCelsius + 32) * 1.8
-        farenLabel.text = "\(Int(faren))ºF"
+        let tempCelsius = Int(round(sender.value))
+        celsiusLabel.text = "\(tempCelsius)ºC"
+        let faren = (tempCelsius * 9 / 5 + 32 )
+        farenLabel.text = "\(faren)ºF"
         
     }
 }
